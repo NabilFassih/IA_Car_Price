@@ -7,7 +7,7 @@ Ce projet contient un formulaire permettant d'estimer la valeur d'un véhicule e
 ## Installation
 
 * Cloner :
-  * git clone https://github.com/KaplanSuleyman/Projet_cars_ml.git
+  * git clone https://github.com/NabilFassih/IA_Car_Price.git
 * Install library :
   * pip install -r requirements.txt
 * Start notebook :
